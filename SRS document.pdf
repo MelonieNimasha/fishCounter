@@ -1,0 +1,59 @@
+
+ 
+   
+Fish Counting System 
+Software Requirements Specification Document
+
+ 
+1.Introduction 
+1.1 ​purpose 
+In a fish breeding farm counting is one of the main activity that done by manually. Get the 
+Counting of fish one by one is more hard task therefore automated the system is more important . If 
+you use well tried and accurate  system  we are able to get the fish counting accurately and do the 
+regular works on less time.Can made up the customer’s confidence with us by giving the Correct 
+required fish numbers. 
+ 
+1.2 project scope 
+ 
+  Usually in the Sri Lanka there is not a method of counting the  small size of fish 
+accurately . This problem has been a large one of problem in aquarium fish marketing . 
+Normally Fish counters count nearly 20,000 fish per day  one by one manually so this is more 
+difficult part. So our target is to automate the counting system. 
+
+ 2.Literature Survey
+Date of survey was 20th September 2018 and the location of survey was Horana fish breeding farm. Farm is supposed to export 45000 fish in a week and all these fish was counted and sorted ( gender ) using manual labour without a proper procedure. Fish is breeded on  5 x 5 ft tanks. They export around 15 types of fish which have different kind of needs and specifications.  The process is very long and tedious often with human errors. 
+	Main areas in this process that needs automation is Fish Counting Process, Fish Gender Sorting Process and Fish Monitoring Process. All these three areas are done using manual labour. Also these three covers the most importants aspects of the process.
+	As fish are very sensitive to changes specials are to be used in the process. And fish have different behaviours which should be accounted for. Also the as the breeded in darker places lighting conditions are very poor and the surrounding is wet damp lights used. But their lighting is very poor and unreliable.
+
+3.1 Functional Requirements
+Ability to take images of tank with fishes 
+Ability to detect all the fishes in the image
+Ability count the number of fishes in each image.
+System should affordable for the wet environment 
+
+3.2 Non- Functional Requirements
+The method that is used should not be harmful for fishes
+Image that taken should be high quality
+ Fish in and out method system also automated 
+ 4. Design and Implementation
+ 
+4.1 Product Features
+A  simple automated fish intake and output system which will allow the user to count large amount of fish without interacting.
+A camera system that will take images of fish with concurrently with the lighting.
+New wall system that will help the lighting system to make a clear view for the camera to take a clear image.
+5 Conclusion
+	Improved version of this method may highly required in aquarium fish farming. Counting the fish count manually has lot of errors and need more time so creating automated system  may helpful.
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
