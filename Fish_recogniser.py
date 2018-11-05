@@ -1,5 +1,5 @@
 import numpy as np
-import ML
+import DeepLearning
 
 def trainer(N,X_data,Y_data,alpha,number):
 	for num in range number:
